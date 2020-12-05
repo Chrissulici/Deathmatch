@@ -1,0 +1,20 @@
+"<Group> You can't invite someone.";
+"<Group> You can't invite someone.";
+
+"You can't polymorph here.";
+"You can't polymorph here.";
+
+"You can't use Wedding Ring in this map.";
+"You can't use Wedding Ring in this map.";
+
+"You can't duel with %s because you are in deathmatch map.";
+"You can't duel with %s because you are in deathmatch map.";
+
+"You can't change pk mode in deathmatch map";
+"You can't change pk mode in deathmatch map";
+
+"You can't invite in deathmatch map";
+"You can't invite in deathmatch map";
+
+"You were blocked until the event started.";
+"You were blocked until the event started.";

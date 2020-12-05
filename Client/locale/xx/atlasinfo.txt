@@ -1,0 +1,3 @@
+ADD:
+
+rinnegan_mapa_coliseo 33300000	33300000	2	2

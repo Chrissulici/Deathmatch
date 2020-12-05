@@ -1,0 +1,6 @@
+deathmatch.start
+deathmatch.close
+deathmatch.is_map
+deathmatch.regen
+deathmatch.is_status
+deathmatch.open_gates

@@ -1,0 +1,12 @@
+// SEARCH:
+
+
+PK_MODE_GUILD,
+
+
+// ADD:
+
+#ifdef ENABLE_DEATHMATCH_SYSTEM
+	PK_MODE_DEATHMATCH,
+#endif
+

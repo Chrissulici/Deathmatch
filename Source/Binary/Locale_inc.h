@@ -1,0 +1,3 @@
+// ADD:
+
+#define ENABLE_DEATHMATCH_SYSTEM
